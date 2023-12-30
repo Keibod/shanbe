@@ -1,0 +1,38 @@
+div.sell,div.sell2{
+    width: 95%;
+    height: 400px;
+    margin: 20px;
+    outline-style: solid;
+    outline-width: 1px;
+    outline-color: gray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+div.sell>div,div.sell2>div{
+    width: 24%;
+    height:inherit;
+    display: inline-block;
+    vertical-align: top;
+}
+div.sell>div>h3,div.sell2>div>h3{
+    margin-right:20px;
+    margin-top: 10px;
+}
+div.sell>div>h5,div.sell2>div>h5{
+    margin-top: 10px;
+    margin-right: 20px;
+    color: gray;
+}
+div.sell>div>a,div.sell2>div>a{
+    margin: 10px;
+    width: auto;
+    text-decoration: none;
+    text-align: center;
+}
+div.sell>div>a>img,div.sell2>div>a>img{
+    margin: 0px;
+    width: 130px;
+}

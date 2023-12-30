@@ -1,0 +1,39 @@
+div.shegeft{
+    width: 95%;
+    height: 100px;
+    margin: 10px;
+    background-color: #EDEFED;
+    position: relative;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+div.shegeft>p{
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: green;
+    margin-left: 170px;
+    text-align: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+div.shegeft>p>a{
+    text-decoration: none;
+    font-size: medium;
+    color: white;
+}
+div.shegeft>div.shegeftan{
+    width: 50%;
+    height: 50px;
+    display: inline-block;
+}
+div.shegeft>div.shegeftan>div{
+    display: inline-block;
+    margin-left: 0px;
+}

@@ -1,0 +1,20 @@
+div.top{
+    width: 97vw;
+    position: relative;
+    margin: 30px;
+}
+div.top>a{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    text-decoration: none;
+}
+div.top>div{
+    width: calc( 100% / 5.5);
+    margin-top: 40px;
+    display: inline-block;
+    text-align: center;
+}
+div.top>div>a{
+    text-decoration: none;
+}

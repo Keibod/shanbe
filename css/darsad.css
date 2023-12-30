@@ -1,0 +1,31 @@
+div.darsad,div.darsad2,div.darsad3{
+    width: 100%;   
+    height: auto; 
+}
+div.darsad>div,div.darsad2>div,div.darsad3>div{
+    display: inline-block;
+    margin-right: 15px;
+}  
+div.darsad>div>a,div.darsad2>div>a,div.darsad3>div>a{
+    width: inherit;
+    height: inherit;
+}
+div.darsad>div>a>img,div.darsad2>div>a>img,div.darsad3>div>a>img{
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+div.darsad4{
+    width: 95%;
+    margin: 20px;
+}
+div.darsad4>a>img{
+    width: 100%;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}

@@ -1,0 +1,131 @@
+div.slider{
+    width: 100%;
+    height: 60vh;
+    z-index: 1;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+div.slider2{
+  width: 90%;
+  height: 50vh;
+  background-color: #EF394E;
+  margin-right: 5%;
+  padding: 10px;
+  /* background-image: url('../images/Amazings.svg') ; */
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  div.slider3{
+    width: 95%;
+    height: 25vh;
+  }
+  div.slider3>div.swiper.mySwiper3>div.swiper-wrapper>div.swiper-slide>a>img{
+    width: 100px;
+    object-fit: contain;
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  div.slider4{
+    width: 95%;
+    height: 250px;
+  }
+  div.slider4>div.swiper.mySwiper4>div.swiper-wrapper>div.swiper-slide>a>img{
+    width: 50px;
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: calc((100% - 30px) / 2) !important;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  div.slider5{
+    width: 95%;
+    height: 250px;
+  }
+  div.slider5>div.swiper.mySwiper5>div.swiper-wrapper>div.swiper-slide>a>img{
+    width: 50px;
+  }
+  .swiper {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    height: calc((100% - 30px) / 2) !important;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

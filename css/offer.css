@@ -1,0 +1,29 @@
+div.offer{
+    width: 100%;
+    text-align: center;
+}
+div.offer>div{
+    width: 120px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    margin-right: 50px;
+    vertical-align: top;
+}
+div.offer>div>a{
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+}
+div.offer>div>a>figure>img{
+    width: 70px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+div.offer>div>a>figure{
+    width: inherit;
+    height: inherit;
+}

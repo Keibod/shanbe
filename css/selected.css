@@ -1,0 +1,31 @@
+div.selected{
+    width: 95%;
+    height: 110vh;
+    margin: 20px;
+    text-align: center;
+    outline-style: solid;
+    outline-width: 1px;
+    outline-color: gray;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+div.selected>div{
+    width: calc( 100% / 7);
+    height: calc( 100% / 3);
+    display: inline-block;
+    vertical-align: top;
+}
+div.seleted>div>a{
+    width: auto;
+    height: auot;
+    text-decoration: none;
+}
+div.selected>div>a>figure{
+    text-decoration: none;
+}
+div.selected>div>a>figure>img{
+    width: 150px;
+}

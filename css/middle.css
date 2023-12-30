@@ -1,0 +1,14 @@
+div.middle{
+    width: 100%;
+    margin: 20px;
+   
+}
+div.middle>div{
+    width: 80px;
+    display: inline-block;
+    margin-left: 250px;
+    vertical-align: top;
+}
+div.middle>div>a{
+    text-decoration: none;
+}
